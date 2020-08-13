@@ -1,0 +1,3 @@
+{:paths []
+ :aliases {:build {:extra-paths ["src-build"]
+                   :extra-deps  {badigeon/badigeon {:mvn/version "1.0"}}}}}
